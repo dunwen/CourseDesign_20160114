@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CourseDesign"
+  id="myeclipse.1452472172956"
+  context-root="/CourseDesign"
+  j2ee-spec="5.0"
+  archive="CourseDesign.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
